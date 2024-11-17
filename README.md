@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SseVven
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Everything that attract me
+- 👀 I’m interested in Coding, Biking and Body Building
+- 🌱 I’m currently learning FinTech、Data Science and Big Data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
